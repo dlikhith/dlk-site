@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <main style={{ padding: "2rem", textAlign: "center" }}>
+      <h1>Welcome to DLK Site 🚀</h1>
+      <p>This is your first Next.js page using the App Router.</p>
+    </main>
+  );
+}
